@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @qmilangowin
+- 👋 Hi, I’m Milan Gowin (@qmilangowin)
 - 👀 I’m interested in Cloud, DevOps, Serverless (especially on GCP), Kubernetes, KNative and Golang
 - 🌱 I’m currently learning: I'm always learning
 - 💞️ I’m looking to collaborate on: open source projects using Go
