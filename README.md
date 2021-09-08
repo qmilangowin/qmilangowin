@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Milan Gowin (@qmilangowin)
-- 👀 I’m interested in Cloud Technologies, DevOps, Serverless (especially on GCP), Kubernetes, KNative and Golang
+- 👀 I’m interested in Cloud Technologies, Golang, Serverless (especially on GCP), Kubernetes and dabbling with KNative
 - 🌱 I’m currently learning: I'm always learning
 - 💞️ I’m looking to collaborate on: open source projects using Go
 - 📫 How to reach me: milan.gowin@me.com
