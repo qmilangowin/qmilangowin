@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Milan Gowin (@qmilangowin)
-- 👀 I’m interested in Cloud Technologies, Golang, Serverless (especially on GCP), Kubernetes and Blockchain.
+- 👀 I’m interested in Cloud Technologies, Golang, Serverless (especially on GCP), Kubernetes, etc.
 - 🌱 I’m currently learning: I'm always learning
-- 💞️ I’m looking to collaborate on: open source projects using Go
+- 💞️ I’m looking to collaborate on: open source projects using Rust
 - 📫 How to reach me: milan.gowin@me.com
 - Currently mainly working full-time in Go and Rust on closed source repos in Gitlab. So less contributions in Github.
 
