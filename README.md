@@ -1,10 +1,23 @@
-- 👋 Hi, I’m Milan Gowin (@qmilangowin)
-- 👀 I’m interested in Cloud Technologies, Rust, Serverless (especially on GCP), Kubernetes, etc.
-- 🌱 I’m currently learning: I'm always learning
-- 💞️ I’m looking to collaborate on: open source projects using Rust
-- 📫 How to reach me: milan.gowin@me.com
-- Currently mainly working full-time in Go and Rust on closed source repos in Gitlab. So less contributions in Github.
+# Milan Gowin
 
+## What I work on
+- 🦀 Production Rust services for high-performance financial systems (primarily FIX protocol)
+- 🤖 AI-driven development workflows (Claude, Copilot, Cursor)
+- 🔒 Private fintech projects in my spare time
+
+## Interests
+- ⚡ High-performance, low-latency backend systems
+- 🛡️ Risk-aware system design
+- 🦀 Rust ecosystem & modern engineering practices
+- 📈 Financial markets & infrastructure
+- ☁️ Cloud infrastructure — GCP, serverless architecture, Kubernetes
+
+## Currently
+- 💼 Software Developer in financial services
+- 🌱 Always learning — Rust internals, agentic AI workflows & tooling
+
+## Reach me
+- 📫 milan.gowin@me.com
 <!---
 qmilangowin/qmilangowin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
