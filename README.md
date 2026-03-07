@@ -15,6 +15,7 @@
 ## Currently
 - 💼 Software Developer in financial services
 - 🌱 Always learning — Rust internals, agentic AI workflows & tooling
+- 🏴 Building [Rogue Capital](https://github.com/RogueCapital) — a personal sandbox of experimental finance Rust tools, from algorithmic trading infrastructure to generic agentic frameworks. Probably won't change the world. Probably most won't see the light of day. Definitely won't lose £827m.
 
 ## Reach me
 - 📫 milan.gowin@me.com
